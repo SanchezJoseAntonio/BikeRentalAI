@@ -1,0 +1,901 @@
+﻿City;Weather Condition;Rider Age;Bike Model;Ride Duration (min);Distance Covered (km);Rider Satisfaction;Bike Rental Cost ($)
+Berlin;Rainy;53;Standard;62;2,25;High;22,63
+San Francisco;Cloudy;39;Standard;5;21,67;Medium;7,87
+Berlin;Sunny;43;Electric;106;28,4;High;39,4
+San Francisco;Cloudy;24;Standard;119;5,66;Low;37,63
+New York;Sunny;24;Mountain;11;25,74;Low;13,12
+Berlin;Rainy;25;Mountain;92;19,34;High;30,61
+San Francisco;Cloudy;43;Mountain;73;39,5;Low;31,23
+London;Snowy;41;Standard;89;28,84;High;29,84
+Chicago;Rainy;41;Mountain;96;26,47;Medium;36,27
+San Francisco;Cloudy;57;Electric;22;23,03;High;25,04
+Berlin;Snowy;25;Mountain;36;39,23;Low;19,5
+New York;Cloudy;26;Mountain;49;21,76;Low;26,42
+London;Snowy;20;Standard;37;18,48;Low;18,73
+San Francisco;Cloudy;38;Standard;78;18,75;High;25,63
+London;Sunny;48;Electric;77;17,42;Medium;38,11
+New York;;41;Standard;53;;Medium;21,24
+Chicago;Snowy;21;Mountain;37;11,31;Low;23,14
+London;Rainy;37;Electric;101;37,11;Low;42,65
+New York;Snowy;33;Mountain;75;19,86;Medium;27,12
+San Francisco;Rainy;27;Mountain;72;33,76;High;25,1
+Chicago;Rainy;60;Mountain;32;19,27;Low;16,9
+Berlin;Rainy;43;Standard;91;28,87;High;28,16
+Berlin;Cloudy;22;Mountain;100;25,18;Low;36,29
+Chicago;Sunny;28;Standard;48;20,19;High;17,8
+New York;Rainy;46;Mountain;84;15;High;29,38
+New York;Snowy;32;Standard;114;35,32;High;33,68
+Chicago;Rainy;23;Standard;59;4,95;High;24,02
+San Francisco;Cloudy;32;Standard;14;19,73;Medium;11,59
+Chicago;Cloudy;37;Standard;107;34,51;Low;35,88
+London;Snowy;51;Electric;40;10,51;Low;28,81
+Berlin;Cloudy;19;Electric;38;25,52;Low;26,97
+New York;Sunny;33;Electric;92;7,04;Medium;38,94
+London;Snowy;36;Mountain;22;16,49;High;12,59
+New York;Cloudy;51;Standard;20;36,02;Low;14,65
+San Francisco;Sunny;31;Mountain;109;7,06;Medium;40,43
+Chicago;Sunny;41;Electric;41;26,7;Low;23,54
+Chicago;Cloudy;49;Mountain;29;16,92;High;18,55
+New York;Snowy;54;Electric;12;21,85;Medium;16,74
+San Francisco;Rainy;27;Mountain;92;23,3;High;36,66
+San Francisco;Cloudy;26;Mountain;88;24,3;Low;32,73
+London;Cloudy;41;Standard;116;25,79;High;36,51
+San Francisco;Snowy;53;Standard;98;11,23;Medium;32,28
+Chicago;Rainy;46;Mountain;88;16,35;Low;36,31
+San Francisco;Rainy;46;Standard;22;1,97;Low;11,02
+New York;Snowy;40;Standard;72;30,87;Medium;27,85
+San Francisco;Rainy;44;Mountain;52;33,57;High;22,69
+Chicago;Sunny;48;Standard;104;8,37;Medium;33,95
+New York;Snowy;60;Standard;74;8,46;High;27,04
+London;Cloudy;24;Electric;71;2,16;High;31,59
+London;Snowy;21;Standard;22;38,83;Low;12,05
+New York;Snowy;59;Mountain;108;14,75;Low;40,07
+London;Cloudy;59;Electric;22;19,54;Medium;22,33
+San Francisco;Cloudy;27;Mountain;60;12,03;Medium;27,23
+New York;Snowy;51;Standard;27;24,09;Low;15,67
+New York;Sunny;40;Electric;10;18,17;High;17,36
+Berlin;Sunny;26;Mountain;30;35,01;Low;15,81
+Chicago;Cloudy;54;Standard;89;20,92;Medium;30,94
+Berlin;Rainy;31;Electric;92;25,08;Low;36,71
+Berlin;Rainy;24;Electric;19;18,76;Low;20,68
+London;Rainy;20;Standard;16;16,41;High;11,74
+New York;Rainy;31;Standard;9;26,21;High;11,09
+San Francisco;Rainy;39;Electric;75;15,29;High;36,27
+London;Snowy;43;Standard;90;39,6;Low;31,26
+Chicago;Cloudy;45;Electric;31;12,44;Medium;23,49
+New York;Snowy;31;Electric;83;11,46;Medium;32,83
+Berlin;Sunny;26;Mountain;107;34,64;High;38,77
+San Francisco;Rainy;19;Mountain;39;8,45;Low;21,48
+New York;Snowy;28;Electric;30;23,82;High;18,55
+London;Snowy;34;Electric;27;6,92;Low;20,5
+San Francisco;Cloudy;51;Standard;17;39,44;High;12,46
+New York;Cloudy;36;Electric;94;18,84;High;41,2
+London;Rainy;56;Mountain;7;24,1;High;15,63
+New York;Sunny;35;Mountain;33;6,83;High;19,41
+Dublin;Sunny;30;;;11,93;;28,91
+London;Snowy;22;Mountain;68;24,78;Medium;30,68
+London;Sunny;40;Electric;32;22,21;Medium;27,26
+London;Cloudy;41;Mountain;91;31,48;High;32,76
+San Francisco;Rainy;25;Electric;117;26,31;High;47,4
+Chicago;Cloudy;43;Mountain;10;11,99;Medium;14,84
+Chicago;Rainy;32;Standard;15;23,68;High;12,08
+New York;Snowy;18;Mountain;42;24,4;Medium;22,27
+New York;Rainy;45;Electric;38;5,31;Medium;27,62
+San Francisco;Sunny;31;Electric;85;22,17;Medium;31,67
+London;Rainy;59;Standard;71;0,97;High;24,7
+Berlin;Cloudy;48;Standard;50;28,05;Medium;21,73
+London;Cloudy;23;Mountain;102;3,38;High;35,45
+New York;Sunny;22;Electric;90;37,58;Low;40,04
+Berlin;Cloudy;48;Mountain;33;18,62;Medium;22,06
+Berlin;Snowy;32;Electric;58;4,74;Low;31,95
+New York;Sunny;32;Mountain;97;38,02;High;33,02
+Chicago;Rainy;60;Standard;73;;High;
+New York;Sunny;22;Standard;78;18,73;High;29,05
+Chicago;Snowy;45;Standard;78;37,55;Medium;26,36
+San Francisco;Sunny;28;Mountain;89;1,87;Medium;31,95
+London;Cloudy;60;Mountain;81;31,83;Medium;31,28
+London;Cloudy;23;Mountain;14;24,04;Medium;16,46
+Chicago;Cloudy;40;Mountain;106;20,8;High;39
+Chicago;Sunny;57;Standard;79;1,86;Low;29,25
+San Francisco;Sunny;19;Electric;72;26,3;High;33,35
+Berlin;Snowy;32;Standard;62;7,28;High;23,4
+Chicago;Rainy;40;Standard;114;37,28;Medium;33,4
+Chicago;Rainy;39;Electric;99;27,59;Low;44,64
+Berlin;Rainy;26;Electric;117;28,43;Low;43,86
+London;Rainy;57;Standard;56;9,69;High;23,73
+London;Sunny;47;Mountain;38;35,29;Low;22,31
+;Sunny;;Electric;110;21,74;High;41,27
+London;Snowy;47;Electric;39;34,35;High;26
+London;Rainy;26;Standard;107;11,2;High;35,37
+London;Sunny;18;Mountain;107;30,34;High;39,61
+San Francisco;Sunny;55;Electric;37;23,2;Medium;23,58
+New York;Sunny;25;Standard;76;2,41;Low;26,42
+Chicago;Sunny;35;Electric;36;16,51;Medium;27,08
+Chicago;Rainy;44;Mountain;59;7,76;Medium;27,79
+San Francisco;Rainy;35;Standard;101;14,69;Medium;32,09
+New York;Sunny;49;Standard;12;15,64;High;8,85
+New York;Cloudy;49;Mountain;50;19,26;High;21,28
+San Francisco;Snowy;53;Standard;18;24,21;Medium;12,61
+Dublin;Rainy;53;Mountain;102;23,05;Medium;36,69
+Berlin;Rainy;38;Standard;12;2,04;Low;9,68
+Dublin;Cloudy;49;Mountain;119;;Medium;40,66
+Berlin;Rainy;48;Electric;110;37,99;High;45,06
+Berlin;Cloudy;33;Electric;81;7,6;Low;37,47
+New York;Sunny;31;Standard;58;21,83;Low;23,9
+Chicago;Snowy;42;Mountain;115;27,32;Low;35,65
+New York;Cloudy;52;Electric;100;24,68;Low;44,64
+San Francisco;Snowy;34;Electric;79;6,28;High;32,75
+Berlin;Sunny;59;Electric;18;33,55;Low;19,01
+London;Rainy;21;Mountain;79;17,31;Low;27,3
+New York;Sunny;28;Electric;6;9,25;Medium;20,43
+San Francisco;Sunny;32;Standard;102;3,91;High;33,64
+Chicago;Snowy;47;Electric;65;16,96;Low;35,78
+San Francisco;Snowy;41;Electric;112;24,91;Medium;40,17
+Berlin;Cloudy;19;Mountain;115;26,78;Medium;38,77
+London;Rainy;60;Standard;21;38,53;Medium;13,7
+Berlin;Sunny;51;Mountain;82;6,55;Medium;28,85
+San Francisco;Cloudy;40;Standard;93;39,44;Medium;32,26
+New York;Cloudy;48;Standard;52;26,36;Medium;20,42
+London;Sunny;54;Electric;95;18,44;Low;38,9
+London;Sunny;30;Electric;12;35,58;High;18,97
+San Francisco;Cloudy;50;Mountain;60;27,93;High;23,33
+Berlin;Sunny;24;Mountain;21;14,27;Medium;17,3
+San Francisco;Sunny;49;Mountain;73;35,42;Medium;27,88
+London;Snowy;24;Standard;16;26,83;High;10,61
+San Francisco;Rainy;;Mountain;;28,1;Low;25,13
+London;Cloudy;55;Standard;22;35,91;Medium;13,06
+Berlin;Sunny;30;Standard;30;18,21;High;12,6
+New York;Cloudy;41;Standard;99;26,45;High;30,55
+New York;Rainy;45;Standard;41;29,92;Medium;15,98
+San Francisco;Cloudy;49;Standard;74;18,43;High;24,78
+London;Cloudy;60;Electric;45;3,8;Low;28,68
+New York;Cloudy;35;Standard;83;30,97;High;27,47
+London;Snowy;51;Standard;46;2,39;Medium;20,33
+Berlin;Rainy;51;Electric;117;28,86;Medium;42,35
+San Francisco;Rainy;55;Electric;94;36,48;High;35,39
+London;Cloudy;18;Electric;119;14,21;High;41,71
+San Francisco;Cloudy;60;Mountain;80;4,53;Medium;27,26
+London;Rainy;59;Mountain;45;9,7;Low;19,24
+Berlin;Snowy;18;Standard;18;37,74;Low;11,23
+San Francisco;Rainy;33;Standard;5;20,74;Low;8,22
+Chicago;Cloudy;56;;;4,95;Medium;11,32
+London;Sunny;32;Electric;101;25,3;Medium;44,75
+London;Sunny;50;Mountain;59;29,45;Medium;29
+New York;Sunny;40;Electric;97;16,03;Low;37,07
+San Francisco;Snowy;58;Mountain;57;29;Medium;22,65
+Chicago;Snowy;51;Electric;113;13,33;Medium;45,94
+Berlin;Rainy;34;Standard;35;31,67;Low;15,84
+Chicago;Rainy;42;Mountain;66;13,97;Low;27,76
+Berlin;Rainy;59;Standard;12;10,62;Low;8,67
+Chicago;Rainy;23;Mountain;34;35,23;Low;16,87
+Chicago;Cloudy;48;Mountain;81;22,16;High;33,92
+San Francisco;Snowy;22;;84;11,76;;26,77
+New York;Sunny;57;Standard;70;37,44;High;26,8
+Chicago;Cloudy;57;Standard;49;27,79;Low;17,79
+London;Rainy;47;Electric;22;9,22;Low;19,77
+London;Rainy;22;Mountain;103;24,78;Low;32,8
+London;Cloudy;29;Mountain;49;34,88;Low;20,19
+New York;Sunny;24;Mountain;23;28;Low;15,97
+Chicago;Snowy;30;Standard;81;10,17;Medium;26,9
+Berlin;Snowy;21;Mountain;119;26,13;High;42,57
+Berlin;Sunny;59;Mountain;72;24,96;;
+New York;Rainy;29;Standard;54;7,54;Medium;21,71
+Chicago;Rainy;18;Mountain;29;28,14;Medium;21,91
+London;Rainy;44;Electric;42;1,58;High;24,03
+New York;Rainy;60;Standard;119;28;High;34,82
+New York;Sunny;30;Electric;99;38,44;Low;39,33
+Chicago;Snowy;34;Electric;40;7,39;High;22,48
+San Francisco;Snowy;25;Electric;72;12,8;High;37,36
+San Francisco;Cloudy;49;Electric;60;23,52;Medium;31,19
+San Francisco;Sunny;37;Standard;43;29,43;High;20,46
+London;Snowy;34;Mountain;67;14,1;Low;26,18
+San Francisco;Rainy;52;Standard;84;29,2;Medium;29,49
+Chicago;Snowy;55;Electric;63;28,59;Low;26,37
+San Francisco;Rainy;59;Electric;52;15,59;Low;25,37
+New York;Cloudy;41;Standard;9;36,5;High;7,33
+Berlin;Snowy;35;Mountain;115;11,45;Low;38,85
+Berlin;Rainy;56;Electric;91;8,61;Low;35,54
+San Francisco;Sunny;50;Standard;40;14,89;Medium;16,43
+Dublin;Rainy;42;Standard;92;34,54;High;30,84
+San Francisco;Rainy;54;Electric;29;5,72;High;19,36
+London;Sunny;18;Mountain;96;32,61;High;34,35
+San Francisco;Cloudy;38;Standard;23;23,68;Medium;13,05
+New York;Rainy;27;Electric;11;30,55;High;21,96
+London;Rainy;48;Mountain;112;7,68;High;42,63
+New York;Snowy;42;Mountain;62;7,2;Low;28,42
+Berlin;Snowy;37;Standard;109;34,58;High;36,34
+London;Sunny;19;Standard;85;20,18;Low;28,28
+London;Sunny;32;Mountain;70;10,21;Medium;32,14
+Chicago;Sunny;45;Standard;84;27,7;High;30,08
+Chicago;Snowy;30;Electric;43;35,73;Low;28,44
+London;Rainy;31;Mountain;22;25,48;High;16,01
+Berlin;Snowy;19;Standard;107;14,22;Low;33,5
+San Francisco;Cloudy;51;Mountain;5;19,59;High;13,7
+Berlin;Sunny;54;Standard;7;3,17;Medium;9,53
+Berlin;Sunny;42;Electric;25;9,08;Low;20,2
+Chicago;Cloudy;32;Standard;34;18,77;Low;16,09
+San Francisco;Rainy;29;Standard;15;24,37;Medium;9,15
+Chicago;Rainy;26;Standard;26;13,9;High;13,18
+Berlin;Rainy;48;Electric;115;12,29;Low;46,64
+;Sunny;31;Standard;61;;Medium;20,23
+Chicago;Rainy;;Standard;;1,79;Low;31,54
+Berlin;Snowy;60;Standard;7;11,51;Medium;10,52
+Chicago;Sunny;55;Mountain;34;21,45;Medium;19,42
+Berlin;Cloudy;59;Electric;92;22,48;Low;37,68
+San Francisco;Cloudy;;;49;20,01;Low;21,43
+Berlin;Rainy;20;Electric;40;16,69;Medium;21,47
+London;Sunny;19;Electric;91;10,47;High;33,42
+New York;Snowy;33;Mountain;76;16,33;Medium;26,03
+Berlin;Snowy;36;Electric;68;5,98;High;32,67
+;Sunny;47;Electric;58;5,05;;33,96
+Chicago;Rainy;58;Mountain;72;12,35;High;29,83
+Berlin;Cloudy;33;Standard;54;39,82;Low;18,9
+London;Cloudy;48;Electric;107;13,4;Medium;40,94
+Berlin;Snowy;45;Mountain;111;37,49;Medium;35,12
+San Francisco;Snowy;21;Electric;35;15,99;High;20,91
+London;Snowy;27;Mountain;33;17,84;High;20,03
+Berlin;;35;Standard;63;31,98;;23,85
+New York;Snowy;49;Electric;40;4,2;Medium;24,34
+Berlin;Cloudy;53;Standard;109;38,97;Medium;33,88
+New York;Rainy;26;Mountain;77;20,48;Medium;28,72
+Berlin;Rainy;53;Electric;89;2,25;Low;34,82
+San Francisco;Rainy;46;Electric;119;2,37;High;40,31
+Chicago;Snowy;33;Electric;71;36,34;High;32,21
+Berlin;Cloudy;45;Electric;93;35;High;37,33
+London;Snowy;38;Electric;93;18,61;Low;37,09
+Berlin;Cloudy;19;Mountain;80;6,95;High;33,54
+Berlin;Rainy;52;Electric;97;33,3;Medium;40,02
+Berlin;Rainy;45;Standard;15;13,32;High;12,02
+Berlin;Snowy;53;Standard;120;17,05;Medium;36,86
+London;Cloudy;48;Electric;15;27,46;Medium;19,48
+London;Snowy;50;Mountain;117;14,46;Medium;43,73
+Chicago;Snowy;58;Electric;57;35,47;High;28,17
+London;Cloudy;18;Electric;68;15,57;;
+San Francisco;Cloudy;59;Electric;84;11,87;Medium;39,86
+Berlin;Rainy;44;Mountain;35;14,27;Low;17
+Berlin;Sunny;42;Mountain;99;19,99;High;32,02
+Berlin;Snowy;49;Standard;40;16,96;Low;16,97
+New York;Cloudy;36;Standard;14;5,75;Medium;11,02
+Berlin;Rainy;41;Electric;30;6,96;Medium;26,51
+London;Cloudy;20;Standard;24;14,05;Medium;15,37
+London;Cloudy;29;Electric;48;22,7;Low;22,18
+New York;Cloudy;52;Standard;66;23,91;High;25,27
+Chicago;Sunny;34;Mountain;83;29,68;High;31,53
+Berlin;Rainy;49;Electric;13;29,62;High;15,9
+San Francisco;Rainy;36;Mountain;94;5,42;Low;35,22
+San Francisco;Rainy;24;Standard;28;21,44;Medium;12,29
+Chicago;Rainy;22;Standard;16;15,57;Medium;10,35
+New York;Rainy;38;Electric;88;39,28;High;36,1
+Berlin;Snowy;24;Electric;82;15,11;Low;34,41
+Chicago;Sunny;40;Electric;20;19,86;Medium;19,1
+Chicago;Cloudy;28;Electric;33;6,14;Low;19,86
+San Francisco;Snowy;27;Electric;36;2,69;Low;27,01
+Dublin;Cloudy;38;Mountain;;25,22;Low;31,57
+Berlin;Rainy;58;Mountain;39;10,26;High;19,62
+New York;Cloudy;50;Electric;47;10,12;High;26,06
+Chicago;Cloudy;37;Standard;100;38,3;Medium;32,78
+London;Rainy;57;Standard;24;1,66;High;14,51
+London;Rainy;52;Mountain;119;13,92;Low;39,02
+San Francisco;Snowy;51;Electric;108;23,59;Medium;45,01
+Berlin;Snowy;53;Electric;88;13,48;Medium;38,63
+New York;Rainy;36;Standard;103;18,05;Low;34,01
+Chicago;Sunny;60;Electric;46;4,68;Low;26,35
+New York;Rainy;22;Electric;81;24,96;Low;38,53
+Chicago;Cloudy;46;Standard;109;24,97;Low;35,2
+Berlin;Sunny;27;Mountain;74;1,99;High;33,15
+Berlin;Rainy;;Mountain;73;;High;32,13
+Berlin;Snowy;22;Mountain;57;12,19;Medium;24,03
+Chicago;Sunny;29;Mountain;49;11,87;Low;23,52
+Chicago;Snowy;30;Mountain;55;39,33;Medium;25,36
+San Francisco;Rainy;39;Electric;102;2,15;Low;37,55
+Berlin;Sunny;57;Mountain;10;39,57;Medium;13,66
+Chicago;Rainy;32;Standard;37;2,39;Medium;15,69
+London;Sunny;55;Electric;18;6,16;High;17,29
+London;Snowy;60;Mountain;43;5,83;Medium;18,82
+;Cloudy;;Standard;67;10,62;High;25,49
+Chicago;Cloudy;28;Standard;9;38,95;High;9,47
+Berlin;Sunny;60;Standard;;;Medium;35,56
+Chicago;Rainy;57;Mountain;94;22,86;High;33,93
+Berlin;Rainy;39;Manual;116;28,32;High;38,71
+Chicago;Rainy;52;Mountain;85;29,82;Medium;35,84
+Berlin;Cloudy;23;Mountain;111;27,68;Low;37,96
+Chicago;Snowy;45;Mountain;115;13,81;Low;36,63
+San Francisco;Cloudy;48;Electric;56;4,91;High;24,45
+Berlin;Snowy;25;Electric;20;11,63;High;23,57
+San Francisco;Cloudy;22;Mountain;103;8,81;Low;34,33
+San Francisco;;59;Mountain;;5,88;High;17,93
+San Francisco;Rainy;34;Electric;57;1,47;Low;27,81
+Dublin;Rainy;55;Electric;91;37,46;Medium;33,39
+New York;Sunny;26;Mountain;81;36,88;High;33,18
+New York;Snowy;37;;97;;Low;33,4
+Chicago;Sunny;31;Mountain;57;6,01;Low;24,86
+Chicago;Cloudy;31;Mountain;50;11,61;Medium;22,97
+London;Cloudy;43;Electric;102;8,56;High;38,84
+London;Snowy;46;Standard;102;37,86;Medium;35,28
+Dublin;Snowy;44;Electric;95;3,82;Medium;39,27
+San Francisco;Rainy;42;Standard;19;8,86;High;11,97
+New York;Sunny;33;Standard;63;3,69;Low;21,81
+Chicago;Rainy;53;Mountain;54;39,23;Medium;22,16
+New York;Sunny;51;Standard;13;36,78;Medium;11,44
+New York;Sunny;33;Mountain;30;28,81;Low;22,24
+New York;Snowy;50;Standard;7;17,33;Medium;9,84
+London;Rainy;20;Mountain;104;8,01;Low;36,93
+London;Rainy;40;Standard;51;9,25;High;19,51
+Chicago;Sunny;28;Electric;9;18;Low;21,26
+Chicago;Sunny;35;Standard;66;30,84;Low;23,84
+Chicago;Snowy;58;Electric;88;10,96;Medium;38,48
+New York;Cloudy;46;Standard;88;12,78;Low;29,67
+London;Rainy;22;Standard;9;24,2;Low;7,96
+San Francisco;Rainy;41;Mountain;14;9,89;Medium;10,9
+New York;Snowy;46;Standard;84;23,58;Low;26,93
+Berlin;Snowy;46;Standard;67;15,79;Medium;22,1
+New York;Rainy;43;Standard;29;1,86;High;13,76
+Dublin;Cloudy;19;Mountain;34;12,08;Low;22,75
+London;Rainy;42;Standard;18;13,25;Low;10,18
+London;Snowy;36;Standard;90;3,1;High;27,95
+San Francisco;Sunny;57;Electric;47;24,79;High;29,38
+New York;Sunny;19;Standard;32;34,05;Medium;14,65
+London;Snowy;36;Mountain;98;14,44;Medium;37,6
+Chicago;Snowy;18;Mountain;23;9,99;High;16,84
+London;Sunny;44;Electric;106;38,29;Low;38,39
+San Francisco;Snowy;52;Electric;46;29,93;Medium;30,98
+London;Sunny;58;Mountain;24;22,9;Low;20,65
+New York;Sunny;55;Standard;90;9,22;Medium;27,47
+;Rainy;21;Standard;83;28,77;Medium;
+New York;Rainy;34;Electric;15;21,11;High;14,46
+Berlin;Snowy;38;Mountain;58;21,06;Low;21,88
+Chicago;Cloudy;48;Electric;102;3,41;High;37,89
+San Francisco;Rainy;39;Mountain;28;20,73;Medium;19,66
+Chicago;Sunny;28;Electric;74;33;High;33,3
+Berlin;Cloudy;51;Electric;21;37,9;High;22,11
+London;Sunny;32;Electric;32;4,71;High;22,94
+London;Sunny;27;Standard;54;25,43;Low;19,11
+Chicago;Rainy;55;Standard;99;22,95;High;31,07
+London;Snowy;49;Mountain;104;35,67;High;40,46
+Berlin;;;Electric;59;30,17;High;32,75
+San Francisco;Sunny;54;Standard;77;38,63;High;27,01
+New York;Rainy;45;Electric;14;38,42;High;22,41
+Berlin;Sunny;48;Mountain;25;9,41;High;14,34
+Berlin;Cloudy;23;Standard;62;29,15;High;24,31
+New York;Sunny;31;Mountain;38;21,46;Medium;21,32
+New York;Rainy;40;Standard;99;8,98;High;30,16
+San Francisco;Sunny;33;Electric;97;8,2;High;37,8
+San Francisco;Rainy;42;Mountain;111;3,7;Low;35,23
+San Francisco;Snowy;56;Standard;47;31,92;Medium;20,79
+London;Rainy;19;Standard;15;13,32;High;10,44
+Berlin;Cloudy;55;Electric;37;34,35;Low;28,27
+New York;Rainy;58;Mountain;62;24,53;High;25,82
+Berlin;Cloudy;56;Mountain;50;27,11;High;20,48
+Berlin;;51;Mountain;65;;High;28,31
+San Francisco;Sunny;57;Electric;66;18,56;High;27,99
+Berlin;Rainy;42;Standard;25;9,81;Low;15,82
+San Francisco;Snowy;53;Mountain;66;33,38;High;30,89
+London;Rainy;33;Standard;68;25,07;Low;22,88
+New York;Snowy;35;Mountain;91;1,98;High;37,09
+Berlin;Cloudy;30;Electric;77;32,89;Low;31,58
+Dublin;Sunny;54;Electric;60;4,69;Medium;30,36
+London;Cloudy;44;Electric;5;16,45;High;14,19
+San Francisco;Cloudy;51;Mountain;25;23,06;Medium;16,83
+Chicago;Snowy;28;Standard;26;0,8;Medium;13,69
+London;Rainy;18;Electric;58;26,29;Medium;28,32
+Chicago;Sunny;30;Mountain;8;26,56;High;9,77
+New York;Sunny;47;Mountain;69;26,27;Medium;30,49
+Berlin;Sunny;22;Electric;55;6,96;Low;32,96
+San Francisco;Sunny;35;Electric;78;10,6;High;35,78
+London;Rainy;31;Electric;67;10,27;Medium;30,43
+San Francisco;Sunny;30;Standard;19;38,42;High;11,91
+Chicago;Snowy;49;Standard;120;3,17;Medium;37,25
+Dublin;Snowy;24;Mountain;40;17,44;Low;19,59
+Berlin;Sunny;25;Electric;33;34,91;High;28,03
+Chicago;Sunny;24;Electric;56;30,89;High;25,64
+Berlin;Rainy;33;Standard;50;32,99;Medium;20,51
+London;Rainy;60;Electric;73;38,91;Low;34,18
+Berlin;Sunny;48;Mountain;33;15,8;High;18,47
+Chicago;Rainy;44;Electric;115;12,73;Medium;48,38
+Berlin;Sunny;46;Mountain;95;6,43;Low;35,99
+San Francisco;Rainy;25;Mountain;29;22,7;Low;18,87
+Berlin;Sunny;58;Mountain;20;29,58;High;13,55
+San Francisco;Sunny;36;Electric;104;1,97;High;43,2
+New York;Snowy;38;Electric;93;10,75;Low;33,43
+Berlin;Snowy;58;Standard;45;27,97;Medium;16,55
+London;Rainy;38;Mountain;69;10,59;Medium;30,45
+San Francisco;Snowy;42;Electric;73;29,29;Low;32,17
+London;Cloudy;59;Electric;109;39,84;Low;43,78
+Chicago;Sunny;40;Electric;24;31,98;Medium;21,59
+Berlin;Cloudy;28;Mountain;73;14;Low;33,17
+Berlin;Rainy;50;Mountain;40;36,07;Low;23,09
+San Francisco;Snowy;37;Mountain;97;2,52;High;31,55
+Chicago;Snowy;43;Mountain;102;1,42;Low;39,2
+Berlin;Snowy;57;Electric;62;7,39;Low;35,3
+New York;Rainy;29;Mountain;52;39,51;High;21,49
+London;Rainy;49;Mountain;86;14,75;Low;33,86
+Chicago;Rainy;50;Electric;6;32,91;High;18,78
+Chicago;Rainy;27;Mountain;84;15,36;High;32,73
+London;Sunny;21;Electric;33;33,68;Medium;27,48
+London;Cloudy;32;Mountain;101;38,63;High;36,18
+Chicago;Cloudy;23;Mountain;20;17,7;Medium;12,1
+London;Sunny;44;Mountain;39;22,59;Medium;19,8
+San Francisco;Snowy;22;Mountain;115;25,33;High;42,48
+London;Sunny;22;Standard;66;37,43;Low;22,75
+New York;Cloudy;35;Electric;111;10,64;High;46,1
+New York;Cloudy;45;Standard;110;24,64;Medium;33,75
+San Francisco;Sunny;52;Mountain;85;13,33;High;31,12
+London;Rainy;39;Mountain;8;9,07;High;16,16
+New York;Snowy;51;Electric;117;3,85;Medium;44,04
+Berlin;Sunny;21;Electric;72;25,02;High;34,23
+London;Cloudy;35;Electric;55;35,34;High;26,3
+San Francisco;Rainy;58;Electric;93;14,38;Medium;42,25
+London;Snowy;43;Mountain;37;22,33;Low;16,78
+Chicago;Cloudy;59;Electric;82;25,86;Medium;34,15
+Chicago;Snowy;39;Standard;28;16,88;Medium;15,07
+New York;Rainy;50;Electric;79;36,18;High;39,26
+Chicago;Cloudy;60;Electric;29;14,83;Medium;24,95
+San Francisco;Rainy;31;Standard;32;5,44;High;15,12
+New York;Sunny;48;Standard;11;6,19;High;12,5
+San Francisco;Sunny;27;Standard;117;35,69;High;37,63
+San Francisco;Snowy;41;Standard;;;Medium;18,26
+Chicago;Rainy;38;Electric;14;11,91;Medium;15,27
+Chicago;Rainy;25;Standard;117;6,17;High;37,16
+San Francisco;Snowy;49;Mountain;40;19,55;Low;22,55
+Chicago;Snowy;48;Electric;99;28,53;Low;41,33
+Chicago;Snowy;51;Mountain;87;24,69;Medium;29,19
+Chicago;Sunny;40;Electric;22;38,07;High;18,64
+London;Snowy;42;Electric;117;32,8;High;39,98
+San Francisco;Sunny;24;Mountain;10;34,82;Medium;10
+Berlin;Snowy;36;Standard;96;21,9;Low;31,24
+San Francisco;Rainy;24;Standard;11;13,43;Medium;12,12
+New York;Rainy;25;Mountain;106;28,22;Medium;35,63
+Chicago;Snowy;;Standard;16;;High;13,03
+Berlin;Sunny;30;Electric;118;6,51;Low;40,94
+New York;Cloudy;20;Electric;67;21,35;Medium;30,89
+London;Sunny;45;Standard;102;23,97;High;34,36
+San Francisco;Rainy;55;Standard;29;22,97;Low;14,89
+London;Snowy;32;Mountain;85;5,1;High;34,86
+Berlin;Cloudy;20;Mountain;37;7,15;Medium;17,11
+New York;Sunny;21;Standard;91;26,72;Medium;31,08
+Berlin;Rainy;22;Mountain;77;17,46;High;27,33
+London;Sunny;43;Standard;10;34,03;Medium;8,84
+London;Snowy;42;Electric;66;31,24;Low;32,45
+New York;Rainy;27;Electric;70;29,11;Low;30,68
+New York;Cloudy;25;Standard;;28,18;;34,11
+Chicago;Sunny;29;Standard;13;22,64;High;9,06
+Berlin;Sunny;20;Standard;71;2,91;High;25,91
+Chicago;Cloudy;44;Electric;20;26,39;Medium;18,3
+Dublin;Rainy;40;Standard;93;18,94;Low;31,97
+San Francisco;;57;Electric;92;19,05;Low;
+New York;Sunny;50;Mountain;115;15,47;Low;38,56
+San Francisco;Sunny;40;Mountain;112;10,35;High;42,05
+San Francisco;Sunny;48;Electric;59;13,01;Medium;27,47
+Chicago;Snowy;30;Electric;44;38,54;High;22,25
+Chicago;Rainy;29;Standard;30;32,5;Low;17,46
+San Francisco;Rainy;52;Electric;42;1,06;Medium;25,17
+New York;Snowy;35;Standard;39;36,29;High;19,18
+Chicago;Rainy;38;Standard;91;9,45;High;30,31
+Chicago;Cloudy;55;Standard;110;21,7;High;36,28
+San Francisco;Snowy;58;Mountain;18;28,86;High;14,36
+Berlin;Sunny;59;Mountain;51;8,68;Medium;23,32
+Chicago;Cloudy;;Electric;107;;Medium;37,51
+Dublin;Snowy;31;Mountain;76;11,98;High;32,22
+Chicago;Snowy;28;Electric;46;38,97;Low;24,39
+Berlin;Snowy;24;Electric;55;18,33;Medium;26,92
+New York;Rainy;48;Electric;23;4,91;High;19,57
+San Francisco;Cloudy;41;Electric;70;27,59;High;34,34
+New York;Snowy;43;Electric;51;12,59;High;28,63
+New York;Sunny;47;Standard;69;6,37;High;25,39
+San Francisco;Rainy;51;Standard;46;17,2;Low;18,33
+London;Rainy;55;Standard;42;38,59;Medium;17,15
+New York;Cloudy;22;Standard;17;16,75;High;10,33
+New York;Cloudy;22;Electric;110;14,22;Medium;44,15
+New York;Cloudy;36;Electric;48;18,06;Medium;27,83
+London;Rainy;55;Mountain;28;0,98;High;16,74
+Chicago;Snowy;45;Mountain;100;5,76;High;35,26
+London;Sunny;40;Mountain;42;6,74;High;23,45
+New York;Snowy;47;Mountain;101;21,65;Medium;33,53
+Berlin;Cloudy;20;Mountain;112;38,67;Medium;37,05
+London;Sunny;45;Mountain;27;6,68;Low;15,07
+San Francisco;Rainy;20;Standard;114;28,37;Low;33,84
+New York;Snowy;22;Mountain;83;6,5;Low;33,82
+Berlin;Cloudy;36;Mountain;27;16,04;High;21
+London;Sunny;59;Electric;40;2,72;High;23,5
+Chicago;Rainy;18;Electric;61;17,59;Medium;31,01
+Berlin;Snowy;55;Standard;5;31,23;High;9,36
+Berlin;Cloudy;26;Electric;76;22,38;High;36,5
+Berlin;Cloudy;22;Standard;7;26,07;Medium;9,97
+Berlin;Cloudy;59;Standard;18;13,41;Medium;14,08
+London;Snowy;51;Mountain;85;6,88;Medium;35,1
+London;Snowy;54;Standard;38;1,02;Medium;19,26
+Chicago;Snowy;50;Mountain;115;32,94;Low;41,76
+London;Cloudy;;Standard;74;25,65;;26,83
+London;Sunny;59;Standard;73;9,56;Low;27,37
+New York;Rainy;46;Electric;114;17,03;Medium;45,85
+New York;Snowy;42;Electric;55;32,16;Medium;32,23
+San Francisco;Sunny;26;Mountain;109;21,78;Medium;36,9
+Chicago;Rainy;20;Electric;108;12,36;High;43,84
+New York;Cloudy;32;Standard;33;11,05;Low;13,87
+Chicago;Sunny;21;Mountain;103;9,1;Medium;35,95
+Berlin;Rainy;37;Mountain;108;23,48;Low;37,79
+Chicago;Snowy;40;Standard;52;28,51;Low;19,1
+Berlin;Cloudy;54;Electric;98;34,47;High;36,19
+San Francisco;Sunny;25;Mountain;83;39,48;Low;28,7
+Dublin;Snowy;54;Standard;83;10,35;High;30,05
+San Francisco;Sunny;50;Electric;20;7,65;Medium;24,2
+Berlin;Rainy;50;Electric;61;18,75;High;32,51
+San Francisco;Snowy;39;Standard;14;31,77;Low;9,46
+Berlin;Sunny;22;Electric;23;35,41;Medium;21,72
+;Sunny;32;;105;27,6;High;31,23
+London;Sunny;38;Electric;118;11,09;Medium;46,08
+Berlin;Sunny;42;Mountain;71;5,36;High;28,55
+New York;Sunny;24;Electric;8;33,42;High;12,11
+New York;Rainy;36;Standard;79;14,24;Medium;27,02
+Chicago;Sunny;24;Electric;109;1,85;Medium;45,1
+Chicago;;;Standard;37;11,33;Low;14,41
+London;Sunny;58;Standard;84;36,08;High;30,79
+San Francisco;Rainy;18;Mountain;13;31,11;High;14,47
+Berlin;Sunny;49;Standard;79;21,82;Medium;28,7
+New York;Cloudy;57;Electric;10;6,37;Low;13,37
+Berlin;Sunny;19;Mountain;53;14,27;Medium;26,9
+Dublin;Cloudy;32;Mountain;95;23,56;Low;36,3
+New York;Sunny;38;Standard;80;34,89;Medium;25,25
+Berlin;Snowy;41;Standard;26;11,11;High;15,67
+Chicago;Sunny;34;Standard;108;5,29;Low;35,33
+New York;Rainy;26;Mountain;52;22,57;Medium;19,97
+Chicago;Snowy;37;Standard;25;24,61;Low;15,71
+Chicago;Cloudy;36;Electric;37;10,91;Low;19,31
+Chicago;Rainy;37;Electric;60;16,27;High;25,84
+San Francisco;Sunny;47;Standard;33;23,93;Medium;16,4
+New York;Rainy;57;Electric;57;22,04;Medium;25,95
+Dublin;Sunny;18;Mountain;44;10,17;High;22,61
+Dublin;Snowy;41;Standard;78;35,7;Medium;27,48
+Berlin;Rainy;41;Standard;22;4,84;High;11,59
+Berlin;Rainy;36;Mountain;51;2,06;High;23,9
+San Francisco;Cloudy;47;Standard;120;24,31;Medium;38,49
+Chicago;Rainy;43;Standard;17;5,37;Medium;13,15
+Berlin;Sunny;59;Mountain;31;20,44;Low;18,08
+Chicago;Rainy;55;Mountain;66;38,1;Low;28,19
+Chicago;Rainy;46;Electric;78;28,09;Medium;31,28
+Berlin;Sunny;21;Mountain;109;23,2;Medium;41,21
+San Francisco;Cloudy;34;Standard;49;7,59;Low;20,16
+London;Sunny;50;Mountain;7;17,59;Medium;12,98
+Berlin;Sunny;45;Mountain;31;38,15;Low;15,44
+Berlin;Sunny;41;Mountain;59;10,07;Low;26,18
+Chicago;Rainy;34;Electric;71;19,12;Low;35,91
+London;Rainy;56;Mountain;37;37,55;High;16,94
+London;Sunny;28;Standard;79;38,6;Medium;28,65
+New York;Cloudy;29;Standard;50;24,53;High;19,34
+Chicago;Snowy;30;Electric;78;13,68;Medium;38,85
+San Francisco;Rainy;25;Mountain;107;33,15;Low;34,08
+New York;Rainy;18;Standard;37;12,01;High;16,19
+London;Rainy;26;Mountain;62;7,01;Low;29,13
+London;Rainy;45;Electric;11;28,4;High;14
+New York;Sunny;19;Standard;19;25,74;Low;10,21
+London;Sunny;31;Standard;30;35,22;Medium;16,87
+San Francisco;Rainy;19;Mountain;42;34,36;Medium;20,24
+London;Rainy;21;Standard;31;2,87;High;16,7
+London;Sunny;29;Standard;107;26,75;Medium;32,81
+San Francisco;Cloudy;27;Electric;11;31,5;High;21,57
+London;Sunny;20;Electric;5;39,29;Low;19,05
+Berlin;Rainy;21;Electric;;15,3;;34,25
+Chicago;Rainy;23;Mountain;25;7,21;Low;15,64
+Berlin;Snowy;40;Mountain;83;34,19;Medium;30,46
+London;Snowy;22;Mountain;34;13,04;Low;17,32
+Dublin;Snowy;20;Electric;98;24,13;High;38,93
+Chicago;Cloudy;27;Standard;12;15,9;Medium;8,27
+London;Sunny;60;Mountain;92;16,39;High;37,54
+Chicago;Rainy;36;Electric;87;29,43;High;35,68
+San Francisco;Rainy;31;Mountain;7;14,78;Low;11,35
+Chicago;Cloudy;38;Standard;59;27,88;Medium;19,75
+Berlin;Rainy;45;Electric;40;13,32;Low;24,07
+London;Sunny;38;Standard;10;13,1;Low;8,11
+San Francisco;Snowy;53;Electric;46;30,08;Low;23,02
+New York;Snowy;41;Electric;54;12,93;Medium;27,04
+Chicago;Cloudy;55;Electric;116;25,52;Medium;45,2
+New York;Snowy;34;Electric;22;27,7;Low;23,87
+London;Snowy;39;Standard;106;26,51;Medium;32,42
+New York;Cloudy;27;Standard;117;16,84;Medium;38,75
+New York;Sunny;55;Electric;34;22,8;Low;19,77
+Berlin;Cloudy;19;Electric;81;3,02;Low;35,7
+San Francisco;Rainy;50;Standard;43;35,09;Medium;18,67
+London;Cloudy;60;Mountain;120;33,1;Low;43,87
+New York;Rainy;48;Mountain;16;14,18;Low;14,92
+Chicago;Cloudy;52;Mountain;102;22,89;Low;40,01
+London;Cloudy;54;Standard;63;37,32;Low;21,92
+New York;Snowy;53;Electric;80;11,23;Medium;32,36
+Chicago;Snowy;40;Electric;48;29,83;High;31,89
+Chicago;Snowy;53;Mountain;92;3,77;Medium;35,38
+Chicago;Sunny;57;Mountain;8;21,17;Low;10,56
+Chicago;Snowy;56;Electric;40;35,42;Low;27,53
+New York;Snowy;43;Mountain;118;22,29;Medium;39,26
+San Francisco;Cloudy;42;Mountain;52;24,84;Low;21,38
+;Cloudy;34;Electric;;36,35;Medium;16,81
+San Francisco;Cloudy;21;Standard;71;23,66;High;23,65
+Chicago;Cloudy;39;Mountain;106;25,5;High;38,18
+Chicago;Rainy;34;Standard;91;32,25;Low;31,02
+London;Sunny;39;Electric;81;39,18;Low;35,1
+Berlin;Cloudy;34;Standard;13;31,92;Medium;11,22
+Berlin;Snowy;31;Electric;25;28,45;Medium;18,3
+Chicago;Sunny;31;Standard;109;5,85;Low;35,28
+Chicago;;25;;85;29,57;High;26,71
+Chicago;Snowy;51;Mountain;20;30,93;High;16,03
+Chicago;Snowy;43;Mountain;20;9,63;Low;13,32
+;Snowy;47;;32;36,19;Medium;18,38
+New York;Rainy;;Mountain;;10,52;High;26,93
+New York;Snowy;47;Standard;84;26,69;Low;28,59
+San Francisco;Snowy;33;Mountain;61;27,11;Low;26,59
+London;Rainy;55;Electric;114;12,88;Low;44,17
+London;Cloudy;41;;56;;Low;21,8
+Chicago;Sunny;53;Standard;50;15,82;High;21,63
+Berlin;Cloudy;52;Electric;82;0,51;Low;33,13
+New York;Snowy;23;Mountain;114;6,92;Low;36,69
+London;Sunny;21;Electric;112;35,36;Medium;42,37
+London;Cloudy;35;Standard;42;9,3;Low;18,87
+New York;Rainy;23;Standard;88;4,96;Medium;30,42
+San Francisco;Snowy;43;Standard;113;27,45;;
+Dublin;Sunny;54;Electric;52;17,91;Medium;23,2
+London;Sunny;44;Mountain;45;31,97;Low;20,09
+San Francisco;Sunny;58;Standard;102;34,53;Medium;31,57
+New York;Sunny;28;Mountain;63;33,92;Low;29,67
+London;Snowy;55;Standard;97;12,86;Low;29,89
+New York;Snowy;33;Mountain;71;20,47;Medium;32,39
+San Francisco;Rainy;36;Electric;78;26,18;Low;32,59
+New York;Rainy;60;Standard;88;13,22;Low;27,97
+San Francisco;Rainy;32;Standard;70;2,12;Low;24,66
+New York;Rainy;58;Electric;36;1,01;High;27,4
+San Francisco;Snowy;48;Electric;60;38,05;Low;32,86
+Chicago;Cloudy;36;Mountain;14;31,97;High;11,17
+New York;Snowy;41;Electric;44;8,08;High;22,13
+Chicago;Cloudy;26;Standard;21;11,86;Low;10,74
+New York;Rainy;40;Mountain;62;39,32;Medium;26,82
+San Francisco;Rainy;21;Electric;101;15,26;Medium;45,11
+San Francisco;Rainy;27;Mountain;10;31,46;Low;13,26
+London;Cloudy;26;Mountain;43;18,15;High;21,43
+London;Snowy;36;Mountain;115;34,63;Medium;37,9
+Chicago;Sunny;32;Standard;22;28,3;Low;11,03
+San Francisco;Snowy;51;Standard;77;1,4;Low;26,08
+London;Rainy;59;Electric;76;12,13;High;34,24
+San Francisco;Cloudy;36;Standard;93;22,54;Medium;33,02
+New York;Cloudy;38;Mountain;99;37,08;Low;36,64
+London;Rainy;51;Mountain;46;4,53;Medium;20,62
+Chicago;Cloudy;34;Standard;8;24,25;Low;10,26
+London;Rainy;35;Mountain;24;12,44;Low;18,88
+San Francisco;Snowy;34;Standard;32;35,63;Low;15,1
+Berlin;Cloudy;19;Mountain;44;30,72;High;21,85
+Berlin;Sunny;18;Electric;69;15,1;;
+San Francisco;Cloudy;60;Electric;108;7,1;High;46,5
+London;Sunny;54;Standard;27;25,03;High;12,29
+Berlin;Rainy;22;Standard;61;16,54;High;23,56
+New York;;48;Mountain;;18,91;Medium;15,55
+San Francisco;Cloudy;55;Electric;94;30,12;Medium;37,76
+London;Sunny;26;Mountain;59;7,51;High;26,97
+New York;Snowy;43;Electric;99;1,03;High;36,09
+London;Sunny;32;Mountain;118;16,99;Medium;41,73
+New York;Sunny;33;Mountain;69;26,79;High;27,51
+San Francisco;Snowy;30;Mountain;85;20,51;Low;29
+Dublin;Rainy;42;Standard;20;35,67;High;12,12
+New York;Rainy;47;Electric;41;17,64;Low;24,52
+San Francisco;Snowy;24;Standard;56;12,78;Medium;23,85
+Chicago;Sunny;21;Standard;14;36,68;Medium;8,85
+London;Snowy;57;Electric;48;11,15;Medium;26,77
+Chicago;Cloudy;55;Electric;99;4,36;High;43,89
+Dublin;Rainy;47;Electric;78;31,84;High;35,38
+Berlin;Snowy;27;Electric;58;33,09;High;30,11
+Berlin;Cloudy;47;Standard;117;1,82;High;34,33
+Berlin;Sunny;56;Standard;102;14,67;Low;31,04
+Berlin;Snowy;24;Electric;55;30,12;Low;30,52
+London;Snowy;52;Electric;74;15,42;Low;30,72
+London;Snowy;41;Standard;96;34,95;Medium;31,36
+London;Rainy;53;Mountain;63;7,59;High;28,19
+Chicago;Sunny;37;Electric;17;0,64;High;23,5
+London;Rainy;49;Electric;45;13,54;High;24,58
+New York;Rainy;56;Standard;16;15,45;High;10,17
+New York;Rainy;43;Electric;54;37,83;High;30,44
+London;Cloudy;43;Electric;108;8,64;High;38,33
+San Francisco;Snowy;;;61;15,6;Low;23,69
+Chicago;Rainy;60;Electric;54;1,49;Medium;32,81
+London;Cloudy;52;Electric;61;30,66;Medium;28,04
+Chicago;Snowy;60;Mountain;58;36,65;High;22,7
+Berlin;Rainy;52;Mountain;70;9,89;Low;31,43
+London;Rainy;29;Mountain;12;17,45;High;16,95
+San Francisco;Snowy;50;Electric;110;5,32;Low;44,36
+Berlin;Cloudy;53;Standard;67;18,54;Low;25,94
+London;Cloudy;31;Mountain;13;5,77;Medium;15,78
+New York;Sunny;50;Electric;64;21,17;Medium;30,92
+London;Snowy;41;Mountain;118;29,52;Low;37,23
+New York;Sunny;32;Standard;67;22,36;Medium;25,1
+Dublin;Cloudy;48;Standard;76;10,19;Low;27,93
+London;Rainy;34;Standard;119;14,47;Low;35,84
+Dublin;Sunny;29;Standard;7;25,72;Low;8,7
+New York;Cloudy;39;Standard;77;23,8;Medium;27,98
+Berlin;Rainy;43;Electric;13;33,88;Medium;20,24
+San Francisco;Snowy;31;Mountain;99;19,27;High;34,21
+London;Cloudy;29;Standard;93;6,91;Medium;31,63
+Berlin;Sunny;21;Mountain;56;5,35;Medium;28,26
+Dublin;Rainy;30;Mountain;112;38,64;High;35,46
+Chicago;Snowy;35;Electric;66;11,62;Low;33,95
+Berlin;Snowy;60;Standard;113;36,39;High;33,79
+London;Snowy;45;Standard;12;16,72;Low;10,63
+Berlin;Cloudy;55;Electric;115;15,74;Low;39,74
+London;Snowy;58;Electric;99;28,19;Medium;44,5
+London;Cloudy;36;Electric;49;0,89;Medium;22,4
+New York;Rainy;60;Electric;57;13,85;Medium;28,13
+Chicago;Rainy;55;Electric;113;12,45;Medium;44,82
+San Francisco;Snowy;20;Mountain;67;34,79;Medium;24,19
+New York;Rainy;36;Electric;99;21,4;High;40,61
+San Francisco;Sunny;37;Standard;85;14,9;High;29,48
+London;Sunny;42;Standard;115;11,01;High;38,58
+New York;Cloudy;28;Electric;61;23,83;High;34,15
+Berlin;Snowy;34;Electric;58;6,49;Medium;32,82
+Berlin;Cloudy;52;Electric;23;10,23;High;20,44
+San Francisco;Rainy;31;Electric;71;12,1;High;36,89
+London;Snowy;56;Electric;50;24,51;Low;31,43
+San Francisco;Cloudy;36;Standard;98;15,24;Medium;31,06
+Berlin;Snowy;51;Electric;117;26,19;High;41,35
+New York;Cloudy;58;Electric;97;38,27;High;37,06
+New York;Snowy;39;Electric;108;30,71;Medium;38,02
+New York;Rainy;55;Standard;22;16,51;High;14,33
+Berlin;Sunny;44;Standard;16;30,06;Low;9,4
+London;Sunny;38;Mountain;53;38,01;Medium;26,9
+Berlin;Snowy;58;Mountain;27;20,23;Low;14,19
+Berlin;Sunny;48;Mountain;66;16,71;Medium;29,56
+Berlin;Cloudy;54;Standard;77;35,75;Medium;26,78
+New York;Rainy;19;Mountain;60;10,23;Medium;22,07
+London;Sunny;26;Electric;92;3,03;Medium;39,36
+Chicago;Cloudy;36;Standard;93;21,72;Low;30,63
+New York;Rainy;59;Standard;59;33,91;Medium;20,17
+Chicago;Sunny;27;Electric;115;31,43;Medium;40,16
+London;Rainy;57;Standard;13;33,54;Medium;8,28
+Chicago;Cloudy;56;Electric;16;18,45;High;20,32
+New York;Cloudy;24;Mountain;15;23,84;High;14,26
+London;Sunny;21;Standard;117;21,59;Low;35,17
+San Francisco;Rainy;32;Electric;42;37,6;High;29,16
+New York;Cloudy;29;Standard;32;29,16;High;14,13
+Dublin;Rainy;23;Mountain;12;37,05;High;15,63
+London;Rainy;26;Standard;78;9,19;Medium;28,1
+London;Sunny;52;Mountain;93;12,75;Low;32,14
+San Francisco;Rainy;24;Electric;40;20,25;High;21,62
+Chicago;Snowy;21;Mountain;54;35,02;High;23,04
+Chicago;Rainy;30;Standard;111;13,41;Medium;32,63
+New York;Cloudy;36;Mountain;13;5,57;Medium;11,5
+London;Sunny;24;Mountain;109;3,2;Low;38,52
+New York;Sunny;27;Electric;64;18,18;Low;32,25
+San Francisco;Rainy;42;Electric;76;6,98;Medium;31,3
+Chicago;Rainy;52;Electric;71;14,17;High;34,69
+San Francisco;Cloudy;42;Electric;57;32,89;High;26,18
+London;Snowy;46;Mountain;86;15,67;Low;33,21
+London;Sunny;29;Mountain;114;24,59;High;37,99
+Berlin;Snowy;57;Standard;103;20,34;Medium;32,51
+San Francisco;Cloudy;29;Standard;21;28,88;Low;10,46
+New York;Sunny;23;Standard;104;6,67;Medium;32,85
+San Francisco;Cloudy;27;Electric;57;36,86;Medium;29,47
+Chicago;Rainy;19;Mountain;32;25,92;High;20,92
+;Cloudy;;Mountain;118;11,2;Medium;36,84
+London;Rainy;24;Standard;67;5,37;Medium;23,85
+San Francisco;Snowy;57;Standard;19;6,41;High;12,3
+San Francisco;Sunny;40;Mountain;23;31,42;Medium;19,29
+San Francisco;Sunny;28;Electric;90;23,73;High;36,27
+Chicago;Rainy;40;Standard;51;13,65;High;21,89
+New York;Sunny;60;Mountain;75;34,3;High;27,87
+San Francisco;Cloudy;24;Mountain;112;35,05;Low;37,4
+New York;Rainy;44;Standard;52;23,46;Medium;21,78
+Berlin;Sunny;30;Standard;77;21,22;Medium;24,7
+Chicago;Cloudy;34;Electric;24;32,75;Low;16,96
+Berlin;Sunny;43;Electric;79;16,31;High;38,78
+London;Snowy;39;Electric;6;3,77;Low;15,33
+Berlin;Snowy;30;Standard;68;30,86;Low;25,33
+New York;Sunny;29;Standard;90;7,16;High;31,83
+New York;Cloudy;24;Standard;116;1,15;High;34,44
+Chicago;Snowy;18;Electric;40;33,81;Low;22,66
+London;Snowy;50;Standard;9;23,34;Medium;9,59
+;;31;Mountain;68;35,72;High;26,59
+San Francisco;Rainy;60;Electric;11;19,64;Low;14,93
+San Francisco;Snowy;58;Mountain;74;37,1;Medium;28,52
+Chicago;Sunny;34;Electric;26;14,48;Medium;22,9
+London;Sunny;21;Standard;78;29,12;Medium;25,47
+Chicago;Rainy;18;Mountain;44;0,55;Low;20,09
+Chicago;Sunny;58;Electric;65;15,5;High;33,77
+London;Rainy;41;Mountain;114;29,64;Medium;37,46
+San Francisco;Cloudy;;Mountain;88;20,44;Low;
+San Francisco;Cloudy;41;Standard;32;8,89;Medium;15,53
+New York;Cloudy;32;Mountain;91;3,45;Low;30,28
+San Francisco;Sunny;34;Standard;39;24,89;Low;16,42
+Berlin;Rainy;30;Mountain;5;38,1;High;12,59
+New York;Cloudy;24;Standard;33;12,77;Medium;17,32
+New York;Snowy;26;Standard;13;23,44;High;9,77
+New York;Snowy;52;Standard;13;38,17;Low;13,13
+New York;Snowy;40;Mountain;26;26,19;Medium;14,69
+Chicago;Rainy;56;Mountain;67;27,09;Low;28,69
+Berlin;Cloudy;40;Standard;70;7,57;Low;25,05
+London;Snowy;43;Electric;84;19,96;Low;31,47
+San Francisco;Rainy;18;Standard;108;15;Medium;35,64
+New York;Snowy;31;Electric;62;19,1;Low;26,17
+London;Cloudy;49;Standard;74;32,13;Low;27,17
+London;Cloudy;18;Electric;17;2,98;High;18,44
+London;Snowy;44;Electric;83;37,02;High;38,66
+New York;Cloudy;39;Electric;37;23,11;High;23,4
+New York;Snowy;35;Electric;78;3,25;High;37,18
+San Francisco;Cloudy;33;Mountain;69;22,34;High;28,49
+San Francisco;Snowy;19;Electric;64;23,24;High;32,3
+Berlin;Cloudy;30;Standard;16;8,97;Medium;13,34
+San Francisco;Snowy;33;Standard;47;19,11;Medium;18,35
+Berlin;Cloudy;25;Electric;97;18,65;High;38,44
+Chicago;Rainy;60;Mountain;21;25,1;Medium;18,11
+Chicago;Snowy;25;Mountain;72;10,75;Medium;29,14
+San Francisco;Rainy;27;Electric;33;23,48;High;27,21
+Chicago;Snowy;50;Mountain;59;10,02;High;23,65
+London;Snowy;48;Mountain;11;18,13;Low;15
+London;Snowy;29;Mountain;48;5,35;Medium;25,18
+London;Sunny;26;Electric;81;1,97;High;31,82
+Chicago;Cloudy;54;Standard;9;13,16;Medium;10,72
+London;Rainy;26;Standard;64;11,35;Medium;21,62
+Berlin;Rainy;35;Standard;10;16,57;Medium;12,31
+New York;Snowy;47;Standard;102;38,5;Low;30,57
+San Francisco;Rainy;49;Standard;11;21,13;High;8,4
+Berlin;Rainy;57;Mountain;50;22,35;Medium;26,62
+New York;Rainy;28;Mountain;58;36,89;Medium;28,87
+San Francisco;Sunny;37;Electric;96;35,42;High;37,52
+Berlin;Snowy;36;Mountain;50;4,37;High;20,69
+San Francisco;Rainy;53;Standard;14;25,55;High;9,8
+Chicago;Sunny;43;Mountain;8;32,42;Medium;14,73
+London;Sunny;27;Standard;71;33,51;Low;25,83
+Berlin;Snowy;41;Mountain;29;23,33;High;21,26
+Berlin;Cloudy;30;Standard;91;1,19;Low;31,43
+New York;Cloudy;51;Mountain;95;38,96;High;32,75
+New York;Cloudy;46;Standard;82;19,15;Low;27,41
+New York;Rainy;53;Standard;65;16,05;High;22,31
+San Francisco;Snowy;24;Electric;42;16,1;Low;24,33
+London;Cloudy;47;Mountain;36;17,25;High;18,81
+London;Snowy;30;Mountain;115;13,43;Low;39,9
+Berlin;Rainy;41;Standard;108;39,42;High;34,21
+San Francisco;Cloudy;48;Electric;41;15,04;Medium;29,87
+San Francisco;Cloudy;44;Electric;7;21,31;High;19,02
+San Francisco;Sunny;38;Electric;103;34,01;High;39,36
+Chicago;Sunny;18;Electric;17;21,33;Medium;15,67
+London;Snowy;32;Standard;38;13,32;Medium;16,41
+London;Rainy;20;Mountain;92;21,19;Medium;35,71
+Chicago;Cloudy;31;Electric;80;5,64;Medium;32,28
+San Francisco;Cloudy;55;Electric;12;27,92;Low;19,68
+London;Snowy;50;Mountain;87;36,74;Medium;30,78
+Berlin;Sunny;55;Standard;13;29,16;Low;8,7
+Chicago;;25;Standard;32;3,45;Medium;
+Dublin;Rainy;43;Standard;82;16,41;Medium;27,46
+San Francisco;Cloudy;32;Standard;95;0,6;High;29,06
+Berlin;Sunny;31;Mountain;22;20,69;Medium;15,79
+London;Rainy;37;Mountain;46;8,13;High;19,61
+New York;Sunny;36;Mountain;45;34,79;Medium;20,12
+London;Snowy;50;Electric;74;4,62;Medium;37
+Dublin;Snowy;53;Mountain;37;0,56;High;23,15
+Berlin;Sunny;41;Standard;105;18,32;High;34,52
+Chicago;Rainy;27;Mountain;110;6,64;Low;36,9
+Dublin;Sunny;51;Electric;93;29,65;High;39,2
+Chicago;Cloudy;53;Standard;81;36,84;Low;25,18
+Berlin;Cloudy;53;Mountain;58;2,16;Medium;24,79
+Berlin;Sunny;33;Standard;91;16,13;High;31,56
+San Francisco;Cloudy;32;Standard;40;39,87;High;15,54
+New York;Sunny;35;Mountain;101;29,44;Medium;36,69
+Berlin;Cloudy;24;Mountain;89;38,15;Medium;29,94
+Berlin;Sunny;39;Electric;102;6,98;Medium;45,14
+Chicago;Cloudy;49;Mountain;60;9,24;Medium;29,54
+Berlin;Rainy;60;Mountain;104;6,62;High;33,42
+London;Rainy;36;Mountain;21;12,44;Medium;15,99
+London;Cloudy;52;Standard;48;21,21;Low;20,21
+Berlin;Snowy;22;Mountain;6;11,13;High;13,81
+New York;Snowy;29;Electric;103;33,25;Low;36,99
+Berlin;Sunny;29;Mountain;18;0,76;Medium;14,62
+San Francisco;Cloudy;38;Standard;115;9,31;High;35,49
+New York;Cloudy;36;Standard;113;24,41;Medium;35,16
+Chicago;Rainy;26;Mountain;45;4,32;High;23,33
+Chicago;Sunny;60;Electric;6;18,92;Low;17,51
+Berlin;Snowy;53;Standard;23;17,73;High;12,9
+Berlin;Snowy;59;Mountain;84;34,17;Medium;33,81
+New York;Sunny;49;Mountain;111;25,2;High;36,17
+Berlin;Sunny;48;Electric;93;38,1;High;41,91
+San Francisco;Snowy;49;Mountain;5;39,3;Low;10,75
+Chicago;Snowy;54;Mountain;6;26,31;High;15,74
+New York;Sunny;49;Standard;116;21,12;High;36,19
+San Francisco;Sunny;60;Mountain;31;24,51;High;17,92
+Berlin;Snowy;54;Electric;6;15,61;High;17,39
+Dublin;Snowy;56;Mountain;98;;Low;38,59
+New York;Rainy;55;Electric;55;28,35;Medium;26,3
+London;Cloudy;47;Mountain;14;11,99;High;13,78
+San Francisco;Sunny;49;Mountain;23;2,78;High;20,47
+Chicago;Sunny;19;Mountain;110;2,27;High;39,62
+Dublin;Rainy;37;Standard;17;9,7;Medium;13,02
